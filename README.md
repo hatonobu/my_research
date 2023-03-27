@@ -5,7 +5,9 @@
 構造は以下のようになっています。
 
 root --src------------------data------csv and model 
+
      |                      |
+     
      ----result(paper)      .ipynb files(execute data)
      
 主に論文に示すデータに関してはresult(paper)に格納されています。
