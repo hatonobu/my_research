@@ -28,5 +28,6 @@
 また、ipynb fileには実験に使用したソースコードが入っています。
 このソースコードはすべてそのまま使用した場合では、論文の内容を完全に再現することはできないため、必要な箇所を変更する必要があります。
 
-This is being fixed now.
-
+The data mainly shown in the paper are stored in the result (paper).
+The ipynb file contains the source code used in the experiments.
+If all of this source code is used as is, it is not possible to completely reproduce the content of the paper, so it is necessary to change the necessary parts.
